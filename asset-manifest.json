@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptopro/static/css/main.b8c2de33.css",
+    "main.js": "/cryptopro/static/js/main.dba1334c.js",
+    "static/media/cryptocurrency.png": "/cryptopro/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/cryptopro/index.html",
+    "main.b8c2de33.css.map": "/cryptopro/static/css/main.b8c2de33.css.map",
+    "main.dba1334c.js.map": "/cryptopro/static/js/main.dba1334c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c2de33.css",
+    "static/js/main.dba1334c.js"
+  ]
+}
